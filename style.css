@@ -10,7 +10,7 @@ header {
 }
 
 
-.nav_lista{
+.nav-lista{
     display: flex;
     list-style: none;
     justify-content: center;
@@ -19,7 +19,7 @@ header {
     text-transform: uppercase;
     }
     
-    .nav_item:hover {
+    .nav-item:hover {
         cursor: pointer;
         background-color: aliceblue;
         color: black;
