@@ -9,12 +9,18 @@ header {
     justify-content: center;
 }
 
- .nav-lista{
+
+.nav_lista{
     display: flex;
     list-style: none;
-    font-size: 40;
+    justify-content: center;
+    font-size: 40px;
     gap: 28px;
     text-transform: uppercase;
-
-.nav-item
-}
+    }
+    
+    .nav_item:hover {
+        cursor: pointer;
+        background-color: aliceblue;
+        color: black;
+    }
